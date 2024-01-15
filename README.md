@@ -10,17 +10,22 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=anatolyfeteleu&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h1>Hi everyone! 👋</h1>
 </div>
-
----
 
 ### :man_technologist: About Me :
 
-<!-- Подумать над текстом -->
+My name is Anatoly Feteleu!  
+
+I'm a software developer from Kazakhstan 🇰🇿
+
+I currently live in Russia, Krasnodar 🪆  
+
+I have been building APIs and tools for mobile app development, with different teams and for different companies. 🌎
+
+I like to building things with Python, SQL and NoSQL databases, Docker and modern backend APIs like Django and FastAPI. For testing purposes, I like to use Pytest with FactoryBoy. 🤖
+
+🔥 I'm currently looking for a job 🔥
 
 ---
 
