@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 
-My name is Anatoly Feteleu!  
+My name is Anatoly Feteleu! 👋
 
 I'm a software developer from Kazakhstan 🇰🇿
 
