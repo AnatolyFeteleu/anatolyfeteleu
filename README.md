@@ -21,7 +21,7 @@ I'm a software developer from Kazakhstan 🇰🇿
 
 I currently live in Russia, Krasnodar 🪆  
 
-I have been building APIs and tools for mobile app development, with different teams and for different companies. 🌎
+I have been building APIs and tools for mobile app development, with different teams and for different companies for 5+ years. 🌎
 
 I like to building things with Python, SQL and NoSQL databases, Docker and modern backend APIs like Django and FastAPI. For testing purposes, I like to use pytest with Factory Boy. 🤖
 
